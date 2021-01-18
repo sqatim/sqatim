@@ -1,11 +1,11 @@
 Hi there 👋
 Here are some ideas to get you started:
 
--🎯 I’m currently studying at 1337 School 💻
--🌱 I’m currently learning JAVA
--💬 Ask me about C, SQL
--📫 How to reach me: samirqatim@gmail.com
--⚡ Fun fact: coding is lifestyle.
+🎯 I’m currently studying at 1337 School 💻</br>
+-🌱 I’m currently learning JAVA</br>
+-💬 Ask me about C, SQL</br>
+-📫 How to reach me: samirqatim@gmail.com</br>
+-⚡ Fun fact: coding is lifestyle.</br>
 
 
 
